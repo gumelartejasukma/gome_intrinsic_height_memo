@@ -1,6 +1,6 @@
 name: gome_intrinsic_height_memo
 description: Efficient widget that caches intrinsic height after first layout.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/gumelartejasukma/gome_intrinsic_height_memo
 environment:
   sdk: ">=2.17.0 <4.0.0"
